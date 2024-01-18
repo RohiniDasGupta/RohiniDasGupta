@@ -13,7 +13,7 @@ I love the challenge of turning ideas into reality.
 
 💻 Tech Stack:
 
-- Languages: C, C++, Python, JAVA\
+- Languages: C, C++, Python, JAVA
 - Hardware: Arduino
 - Tools: MATLAB, Git
 
